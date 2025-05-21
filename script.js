@@ -11,3 +11,9 @@ function getComputerChoice() {
 
 getComputerChoice();
 
+function getHumanChoice(){
+   let choice= prompt("Rock || Paper || Scissors")
+   choice = choice.toLowerCase
+}
+
+getHumanChoice()
